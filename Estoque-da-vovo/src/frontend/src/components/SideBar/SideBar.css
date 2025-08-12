@@ -1,0 +1,74 @@
+.sidebar {
+    min-height: 100vh;
+    background-color: #fff;
+    color: #EF88A0;
+    transition: width 0.3s;
+    box-shadow: 1px 0px 5px rgba(0, 0, 0, 0.2);
+    
+  }
+  
+  .sidebar.collapsed {
+    width: 80px;
+  }
+  
+  .sidebar.expanded {
+    width: 240px;
+  }
+  .side-nav.collapsed .nav-item{
+    width: 87%  !important;
+  }
+  .area-logo.expanded img,.area-logo img{
+    margin: 15px;
+  }
+  
+  .area-logo.expanded img{
+    width: 140px !important;
+
+  }
+  .area-logo img{
+    width: 43px;
+  }
+  .area-logo{
+    height: 80px;
+  }
+
+  .area-logo.expanded button{
+    transition: all 0.3s;
+    position: fixed;
+    top: 18px;
+    left: 225px;
+  }
+  
+  
+  .area-logo h4{
+    font-size: 1.8rem;
+    padding: 12px;
+    transition: display 0.2s !important;
+  }
+
+  .side-nav .nav-link{
+    display: flex;
+    align-items: center;
+    border-radius: 12px;
+    color: #EF88A0;
+  }
+  .side-nav .nav-link:hover{
+    color: #906ec0;
+    
+  }
+  .navbar-link.active{
+    font-weight: bold;
+    color: #906ec0 !important;
+    background-color: #ffe5ec !important;
+  }
+
+  .side-nav .nav-link span{
+    font-size: 1.1rem;
+    white-space: nowrap; /* Evita que o texto quebre */
+  }
+
+  .side-nav .nav-link svg{
+    margin: 2px;
+    font-size: 1.5rem;
+  }
+

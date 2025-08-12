@@ -1,0 +1,49 @@
+.toolbar {
+    background-color: var(--secondary-color-2);
+    color: #fff;
+    border: solid 1px var(--btn-secondary-color) !important;
+    border-radius: 11px;
+    box-shadow: 0px 0px 6px rgb(0, 0, 0, 0.2);
+
+    .btn-group button{
+        font-size: 1.1rem;
+        color: #fff;
+        text-decoration: none;
+        font-weight: 500;
+    }
+    .btn-group button:hover{
+        color: var(--primary-color);
+    }
+
+}
+.form-bar {
+    width: 100%; /* Largura padrão para dispositivos pequenos */
+}
+
+/* Para dispositivos pequenos (sm) */
+@media (min-width: 576px) {
+    .form-bar {
+        width: 75%; /* Largura para dispositivos pequenos */
+    }
+}
+
+/* Para dispositivos médios (md) */
+@media (min-width: 768px) {
+    .form-bar {
+        width: 50%; /* Largura para dispositivos médios */
+    }
+}
+
+/* Para dispositivos grandes (lg) */
+@media (min-width: 992px) {
+    .form-bar {
+        width: 40%; /* Largura para dispositivos grandes */
+    }
+}
+
+/* Para dispositivos extra grandes (xl) */
+@media (min-width: 1200px) {
+    .form-bar {
+        width: 40%; /* Largura para dispositivos extra grandes */
+    }
+}

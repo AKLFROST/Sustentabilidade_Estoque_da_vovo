@@ -1,0 +1,10 @@
+.main-layout{
+    min-height: 100vh;
+    background-color: #F2EDF3;
+}
+
+/*Isso evita do scroll da tabela não aparecer*/
+.content-area{
+    overflow-x: hidden;
+}
+

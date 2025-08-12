@@ -1,0 +1,15 @@
+.button {
+    border: solid 1px var(--btn-secondary-color) !important;
+    font-weight: 500 !important;
+    transition: var(--btn-transition) !important;
+    border-radius: 10px !important;
+    box-shadow: 0px 0px 5px rgb(0, 0, 0,0.2);
+}
+
+.btn-color:hover{
+    background-color: var(--btn-secondary-color)!important;
+}
+.btn-color{
+    background-color: var(--btn-background)!important;
+    color: white !important;
+}
